@@ -1,0 +1,63 @@
+body {
+    background-color: #f6f6f2;
+}
+
+button {
+    background-color: #80ced6;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 25px;
+    color: #f6f6f2;
+    padding-top: 15px;
+    padding-bottom: 15;
+    padding-right: 35px;
+    padding-left: 35px;
+    border-radius: 8px;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive;
+    color:  #388087;
+    margin-bottom: 50px;
+}
+
+body {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 75px;
+    margin-bottom: 75px;  
+}
+
+#content {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    font-size: 24px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#choices {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#name-input {
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 8px;
+}
+
+.name-input {
+    margin-left: 10%
+    font-family: 'Abril Fatface', cursive;
+}
+
+#start-button {
+    font-family: 'Abril Fatface', cursive;
+}
